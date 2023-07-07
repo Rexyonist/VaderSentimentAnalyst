@@ -6,3 +6,6 @@
  # References
 This Notebook Codes I got from kaggles
 Link : https://www.kaggle.com/code/shreyasajal/pfizer-vaccine-tweets-vader-sentiment-analysis-eda
+
+Vader Documentation
+https://github.com/cjhutto/vaderSentiment
